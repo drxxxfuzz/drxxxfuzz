@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://t.me/italicboyyy">
-    <img src="https://tenor.com/ru/view/devil-may-cry-девилмайсру-vergil-virgil-gif-26562327" width="700"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN5aXlrdGswamNuMnh0b2k1MHBkanZnd3dhZnBicmNwaW1rajk4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bRvcG0AbXu4U/giphy.gif" width="700"/>
   </a>
 </div>
 <div id="badges" align="center">
